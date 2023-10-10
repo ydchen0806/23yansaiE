@@ -1,0 +1,11 @@
+Feature,Correlation
+original_shape_SurfaceArea_y,0.39930563864819446
+HM_volume,0.3855776316216518
+original_shape_Maximum2DDiameterColumn_y,0.38484300696888557
+original_shape_LeastAxisLength_y,0.3726962035382604
+original_shape_VoxelVolume_y,0.3561706236369382
+original_shape_MeshVolume_y,0.3561098037359607
+original_shape_MajorAxisLength_y,0.34009470239168677
+糖尿病史,0.3133283408213977
+冠心病史,0.3131265691541535
+NCCT_original_firstorder_Range_x,0.30870457107435795
