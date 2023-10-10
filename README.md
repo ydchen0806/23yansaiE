@@ -23,3 +23,4 @@
 **竞赛信息：** [华为杯研究生数学建模竞赛](https://cpipc.acge.org.cn/cw/hp/2c9088a5696cbf370169a3f8101510bd)
 
 **联系我们：** [ydchen0806](https://github.com/ydchen0806)
+**知乎文章：** [23年研赛E题](https://zhuanlan.zhihu.com/p/660464502)
